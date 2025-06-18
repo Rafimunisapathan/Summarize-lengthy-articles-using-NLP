@@ -24,4 +24,8 @@ HOW TO USE: 1: OPEN GOOGLE COLAB
 
 5: I got an output 
 
+#output
+
+![Image](https://github.com/user-attachments/assets/ccee078e-3f1e-46d1-937b-96fd33f17b69)
+
 
